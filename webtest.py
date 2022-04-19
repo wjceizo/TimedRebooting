@@ -4,7 +4,6 @@ import os
 import sys, getopt
 import socket
 
-
 PING_RESULT = 0
 NETWORK_RESULT = 0
 flag = 0
